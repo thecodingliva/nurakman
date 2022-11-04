@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Nur Akman.
+- 👋 Hi, I'm Nur Akman. @nurakman
 - 👀 I’m interested in software developing.
 - 🌱 I’m currently learning Javascript.
 - 📫 If you want to reach me here's my mail address;
